@@ -1,0 +1,5 @@
+name: FileManager
+author: BadBones69
+main: me.badbones69.filemanager.Main
+version: 1.0
+description: A new file manager for my plugins and other's.
